@@ -1,6 +1,6 @@
-cliente: "AERNNOVA AEROSPACE, S.A."
+cliente: "TEST COMPANY"
 id_contrato: "9931"
-tipo_documento: "PEDIDO VENTA"
+tipo_documento: "PRODUCTO"
 codigo_almacen: "ALM01"
 
 salida:
