@@ -1,0 +1,11 @@
+Codigo_SAP_ItemNumber,Codigo_Navision,Descripcion
+A12345,GEC-001,Tornillo M8 acero zincado
+B56789,GEC-002,Arandela 16mm inoxidable
+C91234,GEC-003,Tuerca hexagonal M10
+D76543,GEC-004,Placa soporte aluminio
+E33445,GEC-005,Remache 4x10mm
+F77889,GEC-006,Junta goma 30mm
+G22110,GEC-007,Pasador 6mm templado
+H99221,GEC-008,Brida sujeción 12mm
+MATERIAL_CUSTOMER_NUMBER,GEC-009,Producto MATERIAL_CUSTOMER_NUMBER
+SP_Z12211-COMERCIAL-DS,GEC-0010,Producto SP_Z12211-COMERCIAL-DS

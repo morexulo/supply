@@ -1,0 +1,18 @@
+cliente: "AERNNOVA AEROSPACE, S.A."
+id_contrato: "9931"
+tipo_documento: "PEDIDO VENTA"
+codigo_almacen: "ALM01"
+
+salida:
+  columnas:
+    - Cliente
+    - ID Contrato
+    - Tipo
+    - Cod. Almacén
+    - Nº Ref. Cruzada
+    - Código Navision
+    - Descripción
+    - Cantidad
+    - Precio Unitario
+    - Divisa
+    - Fecha Entrega
