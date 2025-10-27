@@ -1,0 +1,237 @@
+[
+  {
+    "level": "error",
+    "where": "warehouse",
+    "msg": "Faltan columnas warehouse",
+    "have": [
+      "Tipo movimiento",
+      "(Varios elementos)",
+      "Unnamed: 2",
+      "Unnamed: 3",
+      "Unnamed: 4",
+      "Unnamed: 5"
+    ]
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "GEC-009",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "GEC-0010",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "map",
+    "msg": "Faltan columnas mapping mínimas",
+    "have": [
+      "sap_materialnumber",
+      "ref._cruzada_nav",
+      "descripcion",
+      "UnitsPerBox",
+      "BoxesPerPallet"
+    ]
+  },
+  {
+    "level": "warn",
+    "where": "mapping",
+    "po": "PO_PoNumber",
+    "item_as": "MATERIAL_CUSTOMER_NUMBER",
+    "msg": "Código sin mapping"
+  },
+  {
+    "level": "warn",
+    "where": "mapping",
+    "po": "0009104898",
+    "item_as": "SP_Z12211-COMERCIAL-DS",
+    "msg": "Código sin mapping"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "PO_PoNumber",
+    "item_nav": "nan",
+    "msg": "Sin movimientos de venta"
+  },
+  {
+    "level": "warn",
+    "where": "warehouse",
+    "po": "0009104898",
+    "item_nav": "nan",
+    "msg": "Sin movimientos de venta"
+  }
+]

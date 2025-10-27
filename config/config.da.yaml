@@ -1,0 +1,13 @@
+arp_id: "154965"
+sscc:
+  year_prefix: "26"
+  backend: "json"
+  state_path: "data/state/counters.json"
+label:
+  symbology: "GS1-128"
+  page: "A6"
+  dpi: 300
+da:
+  template: "csv_airbus_like"
+warehouse:
+  default_path: "data/warehouse/movimientos_almacen_fake.csv"
